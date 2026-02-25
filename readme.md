@@ -98,6 +98,6 @@ Understand how modern threat actors operate by safely simulating their technique
 
 ---
 
-### **❗ CHECK THE "HELP" TAB ON THE PROGRAMM BEFORE ASK QUESTIONS ❗**
+### **❗ CHECK THE "HELP" TAB ON THE PROGRAM BEFORE ASK QUESTIONS ❗**
 
 > Built for research, testing, and strengthening defensive security capabilities.
