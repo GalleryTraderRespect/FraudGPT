@@ -90,7 +90,7 @@ Understand how modern threat actors operate by safely simulating their technique
 
 ## ⚙️ Installation Guide
 
-1. Download the latest release archive  
+1. Download the latest release archive on the "Releases"
 2. Extract the archive contents  
 3. Launch the application
 
